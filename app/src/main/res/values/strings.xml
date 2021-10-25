@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Articulo de prueba</string>
+    <string name="article_subtitle">Esto es un subtitulo</string>
+    <string name="article_text">
+        www.google.com
+        \n\n
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec quis purus vel diam pretium luctus at in nibh. Morbi eget sagittis erat, feugiat cursus nisl. Etiam facilisis nibh condimentum, pretium neque lobortis, convallis mauris. Phasellus rhoncus nisi quam, ut egestas lectus tempus eu. Sed eget consequat turpis. Donec vehicula rhoncus molestie. Nulla facilisi.
+        \n\n
+        Suspendisse sed tempus ipsum, vitae vestibulum lacus. Sed eu dui quis nisi feugiat lobortis nec accumsan enim. Fusce tempus vehicula nulla, et ullamcorper eros accumsan sed. Nunc vitae elementum dolor, sit amet gravida purus. Donec porttitor, dolor vel tristique fermentum, orci libero tristique mi, vitae scelerisque leo odio vitae nunc. Integer ornare dui in tortor suscipit, placerat mollis elit dignissim. Quisque facilisis ligula vel turpis hendrerit laoreet. Phasellus fringilla sem eu nibh vehicula tincidunt. Nam sit amet fringilla velit. Proin in sapien at tortor aliquam semper nec eu massa. Cras a urna in purus lacinia vulputate nec et lectus.
+        \n\n
+        Ut ut neque vitae erat egestas pharetra id sed dolor. Quisque venenatis rhoncus volutpat. Vivamus ac consequat nunc. Suspendisse accumsan vitae ante id iaculis. Donec tincidunt quam quis ornare tristique. Donec suscipit viverra lacus ac bibendum. Proin pharetra vitae orci vitae varius. Cras sodales a lectus vel gravida. Ut commodo mauris dui, eget scelerisque turpis rhoncus non. Morbi at mi quis risus iaculis convallis. Maecenas felis velit, molestie non sagittis eget, mollis vehicula turpis. Nulla viverra neque sit amet turpis commodo convallis. In fringilla, nulla at lobortis dapibus, augue risus rutrum dui, ut egestas elit enim eget nunc. Proin sed vehicula mauris.
+        \n\n
+        Mauris at efficitur nisi. Morbi ac leo sed libero sollicitudin euismod. Suspendisse fringilla urna a dui laoreet fringilla. Donec aliquam lacus id ante condimentum varius. Cras diam mauris, dapibus at urna quis, pulvinar pharetra lorem. Morbi sollicitudin finibus nunc sit amet placerat. Suspendisse lobortis, lectus sit amet sodales faucibus, dui urna gravida lorem, ut commodo arcu justo at lectus. Sed ac nunc id ipsum suscipit pellentesque. Phasellus massa magna, rutrum ac dignissim a, aliquet non ipsum. Nullam placerat nibh metus, vel condimentum tellus accumsan in.
+        \n\n
+        Nullam nulla odio, eleifend sit amet laoreet eget, congue ac nunc. Duis ac velit ac enim vehicula fermentum nec ut enim. Maecenas malesuada vestibulum quam ut dignissim. Duis venenatis felis ut rhoncus mattis. Pellentesque vel lacus quis arcu viverra blandit in a purus. Aenean in ipsum augue. Integer sit amet aliquet velit. Suspendisse ante elit, sollicitudin vitae sagittis sed, porttitor sed nibh. Nulla vel nunc consequat magna gravida elementum vel dapibus dui. Suspendisse ut ante quis ligula viverra accumsan quis eget est. Proin eros elit, maximus non elementum hendrerit, lobortis eget augue. Sed ipsum felis, aliquam id eros sed, volutpat laoreet neque.
+    </string>
+    <string name="add_comment">Add Comment</string>
+</resources>
