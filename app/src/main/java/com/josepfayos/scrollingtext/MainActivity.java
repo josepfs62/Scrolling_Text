@@ -14,15 +14,15 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
 
         View buttonEdit = (TextView)findViewById(R.id.buttonEdit);
-        View article = (TextView)findViewById(R.id.article);
+        View article_heading = (TextView)findViewById(R.id.article_heading);
 
         buttonEdit.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if (article.isEnabled() == false) {
-                    article.setEnabled(true);
+                if (article_heading.isEnabled() == false) {
+                    article_heading.setEnabled(true);
                 } else {
-                    article.setEnabled(false);
+                    article_heading.setEnabled(false);
                 }
             }
 
